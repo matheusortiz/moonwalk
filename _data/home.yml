@@ -1,39 +1,22 @@
 navbar_entries:
-  - title: about
+  - title: sobre
     url: about
 
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
-  - title: Project 1
+  - title: Pátio
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Aplicação de gerenciamento de pátios e veículos de organizações policiais militares desenvolvido com o framework Django em Python.
 
-  - title: Project 2
+  - title: Site do Colégio da Vila Militar de União da Vitória
     url: overview-post
     desc: Projects are shown in card layout
 
   - title: Project 3
     url: overview-post
     desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
@@ -54,14 +37,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: x
+    url: https://x.com/matheusortiz
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/matheusortiz
 
   - title: feed
     url: feed.xml
@@ -97,5 +77,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
